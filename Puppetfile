@@ -5,3 +5,6 @@ mod "nodes/php"
 mod "puppetlabs/mysql"
 
 mod "willdurand/composer"
+
+mod "hunner/wordpress"
+
